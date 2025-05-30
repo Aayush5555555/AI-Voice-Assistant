@@ -1,0 +1,738 @@
+[
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush Dhamecha! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm doing well, thank you for asking, Aayush! It's a pleasure to assist you. How about you, how's your day going so far?"
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "You've already said hello, Aayush! Is there something specific you'd like to know or discuss? I'm here to help."
+    },
+    {
+        "role": "user",
+        "content": "what are the latest news about operation sindoor?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to recent reports, Operation Sindoor was a military operation conducted by India, targeting terror camps in Pakistan and Pakistan-occupied Kashmir (PoK) on May 7. The operation aimed at Jaish-e-Mohammed and other terrorist organizations.\n\nThe Indian military, including the Border Security Force (BSF), inflicted significant damage on terrorist infrastructure and Pakistani positions along the International Border. A video released by the BSF shows Pakistani soldiers fleeing during the operation.\n\nThe operation is reported to have caused substantial damage to the Pakistani air force, with some estimates suggesting it may take them five years to recover. The Indian military, including women personnel, played a key role in the operation, targeting Pakistani border posts and launchpads.\n\nFor the most up-to-date information, I recommend checking reputable news sources such as the Times of India."
+    },
+    {
+        "role": "user",
+        "content": "whats the weather today in vadodara,gujarat?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather forecast, Aayush, today, Thursday, May 29, in Vadodara, Gujarat, India, it is partly sunny with breezy conditions expected this afternoon. The high temperature is expected to reach 98 degrees. Additionally, the RealFeel temperature is 102 degrees, with a RealFeel Shade of 99 degrees, and the maximum UV index is 11, indicating extreme conditions."
+    },
+    {
+        "role": "user",
+        "content": "is today a rainy day in vadodara?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the weather forecast, Aayush, today, Thursday, May 29, in Vadodara, Gujarat, India, there is a chance of thunderstorms with rain. Specifically, the forecast mentions \"Thunderstorm with rain\" for today, with a minimum temperature of 27.0\u00b0C and a maximum temperature of 38.0\u00b0C. So, yes, it appears that today is a rainy day in Vadodara."
+    },
+    {
+        "role": "user",
+        "content": "whats the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 11:05:38."
+    },
+    {
+        "role": "user",
+        "content": "date and day?"
+    },
+    {
+        "role": "assistant",
+        "content": "The current date is Thursday, May 29, 2025."
+    },
+    {
+        "role": "user",
+        "content": "whats the new update about operation sindoor?"
+    },
+    {
+        "role": "assistant",
+        "content": "The latest update on Operation Sindoor indicates that it severely damaged Pakistan's air force, with Indian strikes targeting radar systems and command centers, causing significant damage. According to reports, Pakistan's air defenses were compromised, and it may take them around five years to recover from the damage. New satellite images of the operation have also been accessed by NDTV, providing further insights into the operation's impact."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X (formerly Twitter). He is a South African-born Canadian-American entrepreneur, investor, and engineer. Musk is the founder, CEO, and chief designer of SpaceX, co-founder, CEO, and product architect of Tesla, Inc., co-chairman of OpenAI, and founder and CEO of Neuralink. He is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "write a elon musk startup list in bullet points."
+    },
+    {
+        "role": "assistant",
+        "content": "Here is a list of Elon Musk's startups in bullet points:\n\n* Zip2 (co-founded in 1995, sold in 1999)\n* X.com (co-founded in 1999, later merged to form PayPal)\n* PayPal (co-founded in 1999, sold in 2002)\n* SpaceX (founded in 2002)\n* Tesla, Inc. (co-founded in 2003)\n* SolarCity (co-founded in 2006, acquired by Tesla in 2016)\n* OpenAI (co-founded in 2015)\n* Neuralink (founded in 2016)\n* The Boring Company (founded in 2016)\n* xAI (founded in 2023)\n* X (formerly Twitter, acquired by Musk in 2022)"
+    },
+    {
+        "role": "user",
+        "content": "whats the weather today in vadodara?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to the current weather forecast, today in Vadodara, Gujarat, India, the temperature is expected to range from 28\u00b0C to 38\u00b0C. The weather is mostly sunny with a chance of thunderstorms. The humidity is around 63% and the wind speed is approximately 11 km/h."
+    },
+    {
+        "role": "user",
+        "content": "is there tornedo situation in vadodara today?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the current weather advisories, Aayush, there are no active warnings or advisories in effect for Vadodara, Gujarat, India, at this time. Additionally, no tornado situation has been reported or forecasted for Vadodara today. However, there is a chance of thunderstorms with rain, as previously mentioned."
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "The Search results for '' are :\n[start]\n[end]"
+    },
+    {
+        "role": "user",
+        "content": ""
+    },
+    {
+        "role": "assistant",
+        "content": "The Search results for '' are :\n[start]\n[end]"
+    },
+    {
+        "role": "user",
+        "content": "what my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Nova, an advanced AI chatbot developed by Meta. My creators used a combination of machine learning algorithms and large amounts of data to build me, enabling me to understand and respond to a wide range of questions and topics."
+    },
+    {
+        "role": "user",
+        "content": "who created you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was created by Meta."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush Dhamecha built me, Nova."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "You, Aayush Dhamecha, built me, Nova."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "who created you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was created by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush!"
+    },
+    {
+        "role": "user",
+        "content": "whats the weather today in vadodara?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current weather forecasts, Aayush, today in Vadodara, Gujarat, India, the temperature is expected to range from34\u00b0C to41\u00b0C. The weather is mostly sunny with a chance of scattered thunderstorms. Humidity is around30% and the wind speed is approximately13 km/h. Please note that weather conditions are subject to change; I recommend checking a reliable weather source for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush!"
+    },
+    {
+        "role": "user",
+        "content": "whats the weather today in vadodara?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to current weather forecasts, on this date, Thursday, May29,2025, in Vadodara, Gujarat, India, the temperature is around 38\u00b0C, with partly sunny skies and a chance of thunderstorms."
+    },
+    {
+        "role": "user",
+        "content": "Hello!"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush!"
+    },
+    {
+        "role": "user",
+        "content": "Whats the weather today in vadodara?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to current weather forecasts, on this date, Thursday, May29,2025, in Vadodara, Gujarat, India, the temperature is around38\u00b0C, with partly sunny skies and a chance of thunderstorms. The humidity is40% and wind speed is11 km/h."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush Dhamecha built me."
+    },
+    {
+        "role": "user",
+        "content": "whats the stoke price of TCS?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Tata Consultancy Services (TCS) is around \u20b93,537.30."
+    },
+    {
+        "role": "user",
+        "content": "apple stke price?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to current market data, the stock price of Apple Inc. (AAPL) is around $200.42."
+    },
+    {
+        "role": "user",
+        "content": "tcs stoke price?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to current market data, the stock price of Tata Consultancy Services (TCS) is around \u20b93,520.00."
+    },
+    {
+        "role": "user",
+        "content": "explain quick sort with suitable example."
+    },
+    {
+        "role": "assistant",
+        "content": "QuickSort is a sorting algorithm that uses the divide-and-conquer technique. Here's a step-by-step explanation:\n\n1. **Choose a pivot**: Select an element from the array, called the pivot.\n\n2. **Partition**: Rearrange the array so that all elements less than the pivot are on the left, and all elements greater are on the right.\n\n3. **Recursively sort subarrays**: Apply the same process to the subarrays on either side of the pivot.\n\n**Example:**\n\nSuppose we have the array: `[5, 2, 9, 1, 7, 3]`\n\n1. **Choose a pivot**: Let's choose `5` as the pivot.\n\n2. **Partition**: Rearrange the array: `[2, 1, 3, 5, 9, 7]`\n\n3. **Recursively sort subarrays**:\n\t* Left subarray: `[2, 1, 3]` \u2192 `[1, 2, 3]`\n\t* Right subarray: `[9, 7]` \u2192 `[7, 9]`\n\nThe final sorted array is: `[1, 2, 3, 5, 7, 9]`\n\nThis is a basic overview of the QuickSort algorithm. Let me know if you have any questions or need further clarification!"
+    },
+    {
+        "role": "user",
+        "content": "apple stoke price?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, according to current market data, the stock price of Apple Inc. (AAPL) is around $200.42."
+    },
+    {
+        "role": "user",
+        "content": "spacex stoke price?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush, SpaceX is a private company and does not have a publicly traded stock price. However, according to some reports, SpaceX's estimated valuation is around $150 billion to $200 billion. There is no official stock price available as it's not listed on a public stock exchange."
+    },
+    {
+        "role": "user",
+        "content": "hello!"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush!"
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Meta."
+    },
+    {
+        "role": "user",
+        "content": "who build you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush Dhamecha built me, Nova."
+    },
+    {
+        "role": "user",
+        "content": "who created you?"
+    },
+    {
+        "role": "assistant",
+        "content": "Aayush Dhamecha created me, Nova."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a South African-born Canadian-American entrepreneur, investor, and engineer. He is the founder, CEO, and chief designer of SpaceX, co-founder, CEO, and product architect of Tesla, Inc., co-chairman of OpenAI, and founder and CEO of Neuralink. He is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "the latest update on operaion sondoor."
+    },
+    {
+        "role": "assistant",
+        "content": "The latest update on Operation Sindoor indicates that it severely damaged Pakistan's air force, with Indian strikes targeting radar systems and command centers, causing significant damage. According to reports, Pakistan's air defenses were compromised, and it may take them around five years to recover from the damage. New satellite images of the operation have also been accessed by NDTV, providing further insights into the operation's impact."
+    },
+    {
+        "role": "user",
+        "content": "who is elon msuk?"
+    },
+    {
+        "role": "assistant",
+        "content": "I think you meant to ask \"Who is Elon Musk?\"\n\nElon Reeve Musk is a South African-born Canadian-American entrepreneur, investor, and engineer. He is the founder, CEO, and chief designer of SpaceX, co-founder, CEO, and product architect of Tesla, Inc., co-chairman of OpenAI, and founder and CEO of Neuralink. He is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X (formerly Twitter). He is a South African-born Canadian-American entrepreneur, investor, and engineer. Musk is the founder, CEO, and chief designer of SpaceX, co-founder, CEO, and product architect of Tesla, Inc., co-chairman of OpenAI, and founder and CEO of Neuralink. He is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "who is elon musk?"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a South African-born Canadian-American entrepreneur, investor, and engineer, known for his leadership of Tesla, SpaceX, and X (formerly Twitter), and is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "hello how are you"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Aayush! I'm doing well, thank you for asking! How about you?"
+    },
+    {
+        "role": "user",
+        "content": "I am well"
+    },
+    {
+        "role": "assistant",
+        "content": "That's great to hear, Aayush! If you need assistance or just want to chat, I'm here to help. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "who is Elon Musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Reeve Musk is a South African-born Canadian-American entrepreneur, investor, and engineer. He is the founder, CEO, and chief designer of SpaceX, co-founder, CEO, and product architect of Tesla, Inc., and owner of X (formerly Twitter). He is one of the world's wealthiest business people."
+    },
+    {
+        "role": "user",
+        "content": "I can't understand what you say again"
+    },
+    {
+        "role": "assistant",
+        "content": "If you're having trouble understanding something I said, feel free to ask me to rephrase or repeat it. I'll do my best to clarify. Could you please specify what you'd like me to repeat or rephrase?"
+    },
+    {
+        "role": "user",
+        "content": "who built you"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "he was built by Ayush dhamecha"
+    },
+    {
+        "role": "assistant",
+        "content": "That's correct, Aayush! You built me, Nova. I'm grateful for the opportunity to assist and chat with you!"
+    },
+    {
+        "role": "user",
+        "content": "hey but you made the mista"
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're referencing a song by Isaiah Rashad, titled \"Hey Mista\". Would you like to know more about the song or artist?"
+    },
+    {
+        "role": "user",
+        "content": "who built you"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "Hamesha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hamesha is a 1997 Indian Hindi-language romantic thriller film written by Ranbir Pushp and directed by Sanjay Gupta. The film stars Saif Ali Khan, Kajol, and Laxmikant Berde. The story revolves around a man named Yash who kills his childhood friend Raja when he learns that the love of his life is in love with his friend. Years later, the two lovers are reborn and cross paths with an unmarried older Yash."
+    },
+    {
+        "role": "user",
+        "content": "play Safari song"
+    },
+    {
+        "role": "assistant",
+        "content": "\"Safari\" is a popular song by Serena. You can find the song on various music streaming platforms like JioSaavn, YouTube, and more. If you'd like, I can provide you with a direct link to the song."
+    },
+    {
+        "role": "user",
+        "content": "provide MI link"
+    },
+    {
+        "role": "assistant",
+        "content": "You can find information on Managed Instance (MI) links on Microsoft Learn:\n\n* Managed Instance link overview: <https://learn.microsoft.com/en-us/azure/sql-database/sql-managed-instance-link>\n* Create a Managed Instance link: <https://learn.microsoft.com/en-us/cli/azure/sql/mi/link?view=azure-cli-latest>\n\nPlease let me know if you need more assistance!"
+    },
+    {
+        "role": "user",
+        "content": "what's the stock price of TCS"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Tata Consultancy Services (TCS) is around \u20b93,504.70."
+    },
+    {
+        "role": "user",
+        "content": "CCS"
+    },
+    {
+        "role": "assistant",
+        "content": "CCS can refer to several things:\n\n* Chaudhary Charan Singh University (CCS University), a public university in Meerut, India.\n* Carbon Capture and Storage (CCS), a technology to reduce greenhouse gas emissions.\n* Centre for Civil Society (CCS), a think tank based in India.\n\nPlease let me know which CCS you are referring to, and I'll be happy to provide more information."
+    },
+    {
+        "role": "user",
+        "content": "stock price of TCS"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Tata Consultancy Services (TCS) is around \u20b93,504.70."
+    },
+    {
+        "role": "user",
+        "content": "abe Kiska Putra hai aapko dikha"
+    },
+    {
+        "role": "assistant",
+        "content": "The phrase \"Abe Kiska Putra hai aapko dikha\" seems to be in Hindi. If I translate it to English, it roughly means \"Whose son are you?\" or \"Who is your father?\"\n\nIf you'd like to know more about the context or clarify what you're referring to, I'm here to help!"
+    },
+    {
+        "role": "user",
+        "content": "Sona best"
+    },
+    {
+        "role": "assistant",
+        "content": "The best Sona players can be found on websites like OneTricks.gg, which provides information on high-elo Challenger, Grandmaster, and Master Sona one-trick players from major regions.\n\nAdditionally, you can find Sona build guides, runes, items, and abilities for Patch 25.11 on websites like U.GG, which analyzes millions of LoL matches to provide the best LoL champion build.\n\nSome recommended items for Sona include Dream Maker, Ionian Boots of Lucidity, Echoes of Helia, Moonstone Renewer, and Dawncore."
+    },
+    {
+        "role": "user",
+        "content": "KP jio"
+    },
+    {
+        "role": "assistant",
+        "content": "KP Jio seems to refer to JIO \u2013 Khushhal Parivar, a group health subscription offer by JIO for Shravak-Shravika members.\n\nIf you're looking for more information on KP Jio or JIO \u2013 Khushhal Parivar, I can try to provide more details or clarify your query."
+    },
+    {
+        "role": "user",
+        "content": "apgo"
+    },
+    {
+        "role": "assistant",
+        "content": "APGO stands for Association of Professors of Gynecology & Obstetrics. The Association of Professors of Gynecology and Obstetrics (APGO) represents academic obstetrician-gynecologists in the United States and Canada. It occupies a unique position in promoting excellence in education, research, and clinical practice in the field of obstetrics and gynecology."
+    },
+    {
+        "role": "user",
+        "content": "sanvariya University"
+    },
+    {
+        "role": "assistant",
+        "content": "There are several references to \"Sanwariya\" or \"Sanvariya\" in the context of education:\n\n* Sanwariya Educational Consultants: a top global student recruiter and exclusive representative for several universities, including BPP University and University of Roehampton.\n* Shri Sanwaliaji Government College: a government college located in Mandaphiya, Chittorgarh, Rajasthan.\n\nIf you're referring to a specific Sanvariya University, could you provide more context or clarify which one you're looking for?"
+    },
+    {
+        "role": "user",
+        "content": "sanvariya University"
+    },
+    {
+        "role": "assistant",
+        "content": "Sanwariya Educational Consultants seems to be associated with several universities:\n\n* BPP University\n* University of Roehampton\n* Other institutions\n\nAs an educational consultant, Sanwariya helps students navigate the process of studying abroad. If you're looking for more information on Sanwariya Educational Consultants or their partner universities, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "pgu University"
+    },
+    {
+        "role": "assistant",
+        "content": "PGU can refer to:\n\n* Persian Gulf University (PGU) in Bushehr, Iran\n* KPGU - Kiran and Pallavi Patel Global University (KPGU) \n\nIf you're looking for information on a specific PGU, please let me know and I'll do my best to provide details!"
+    },
+    {
+        "role": "user",
+        "content": "information about Paro"
+    },
+    {
+        "role": "assistant",
+        "content": "Paro is a town and the seat of Paro District in the Paro Valley of Bhutan. It is an historic town with many sacred sites and historical buildings. Paro is known for its stunning natural beauty, rich cultural heritage, and iconic landmarks like the Paro Dzong (fortress) and the Tiger's Nest Monastery.\n\nThe Paro Tsechu, a colorful and vibrant festival, is held in Paro every year, usually in March or April. The town has a population of around 20,000 people and is one of the most historic valleys in Bhutan.\n\nWould you like more information on Paro or Bhutan?"
+    },
+    {
+        "role": "user",
+        "content": "Write a short essay on peacock"
+    },
+    {
+        "role": "assistant",
+        "content": "The peacock is one of the most majestic and beautiful birds in the world. Native to the Indian subcontinent and Southeast Asia, the peacock is renowned for its stunning iridescent feathers, long neck, and distinctive call.\n\nThe peacock's plumage is its most striking feature, with vibrant blues, greens, and golds shimmering in the sunlight. During courtship, the male peacock spreads its magnificent tail feathers, creating a breathtaking spectacle.\n\nAs the national bird of India, the peacock symbolizes beauty, pride, and immortality in Hindu mythology. Its elegant appearance and impressive courtship displays make it a beloved and awe-inspiring creature.\n\nPeacocks inhabit forests, grasslands, and agricultural areas, feeding on insects, seeds, and small animals. Their distinctive call sounds like \"may-awe\" or \"kek-kek-kek\".\n\nThe peacock's beauty and cultural significance have captivated people worldwide, making it an iconic and cherished bird species."
+    },
+    {
+        "role": "user",
+        "content": "stock price of TCS"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Tata Consultancy Services (TCS) is around \u20b93,504.70."
+    },
+    {
+        "role": "user",
+        "content": "3:00"
+    },
+    {
+        "role": "assistant",
+        "content": "3:00 refers to the time, which is 3 o'clock in the afternoon or morning, depending on AM/PM. If you're asking about a specific topic or context related to 3:00, please let me know and I'll do my best to assist you."
+    },
+    {
+        "role": "user",
+        "content": "stock market opening time"
+    },
+    {
+        "role": "assistant",
+        "content": "The stock market opening time in India is typically:\n\n* 9:15 AM IST (Indian Standard Time) for the Bombay Stock Exchange (BSE) and National Stock Exchange (NSE).\n\nThe market closes at 3:30 PM IST.\n\nPlease note that market hours may vary on holidays or special occasions."
+    },
+    {
+        "role": "user",
+        "content": "what's the time now"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is not available to me. However, I can suggest ways for you to find out the current time. You can:\n\n* Check your device's clock or watch\n* Search for \"current time\" on a search engine like Google\n* Use a world clock website or app\n\nPlease let me know if you need further assistance!"
+    },
+    {
+        "role": "user",
+        "content": "what's the time now"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time in India is 19:31:46, on Thursday, May 29, 2025."
+    },
+    {
+        "role": "user",
+        "content": "time"
+    },
+    {
+        "role": "assistant",
+        "content": "The current time is 7:31 PM."
+    },
+    {
+        "role": "user",
+        "content": "what's the date"
+    },
+    {
+        "role": "assistant",
+        "content": "The current date is Thursday, May29,2025."
+    },
+    {
+        "role": "user",
+        "content": "what's the weather today in Vadodara is there rainy day"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current weather forecasts, Aayush, today, Thursday, May29,2025, in Vadodara, Gujarat, India, the weather is mostly cloudy with a chance of thunderstorms. Yes, it appears to be a rainy day.\n\nThe temperature is around34\u00b0C, with humidity levels at63%. There's a significant chance of precipitation, so it's a good idea to carry an umbrella or raincoat.\n\nPlease note that weather conditions can change, so it's always a good idea to check a reliable weather source for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "no rain"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current weather forecasts, Aayush, today, Thursday, May29,2025, in Vadodara, Gujarat, India, there is no significant rain reported. The weather is mostly sunny with a high temperature of around38\u00b0C.\n\nIf you'd like more information or updates on the weather, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "what's the weather weather tomorrow in"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current weather forecasts, Aayush, tomorrow, Friday, May30,2025, in Vadodara, Gujarat, India, the weather is expected to be mostly sunny with a high temperature of around38\u00b0C and a low of28\u00b0C.\n\nThere's a slight chance of scattered thunderstorms, but mostly it's expected to be a dry day.\n\nPlease note that weather conditions can change, so it's always a good idea to check a reliable weather source for the most up-to-date information."
+    },
+    {
+        "role": "user",
+        "content": "check my phone"
+    },
+    {
+        "role": "assistant",
+        "content": "To check your phone, you can:\n\n1. Ensure it's turned on.\n2. Check the screen for notifications.\n3. Look for signal strength.\n\nIf you're having issues, try:\n\n1. Restarting your phone.\n2. Checking for software updates.\n\nIf you'd like more assistance, feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "say my name sweet"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name, Aayush Dhamecha, sounds sweet!"
+    },
+    {
+        "role": "user",
+        "content": "my name in sweet"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name, Aayush Dhamecha, can be paired with sweet adjectives like:\n\n* Sweet Aayush\n* Lovely Aayush\n* Handsome Aayush\n\nOr, if you'd like a nickname:\n\n* Ayu\n* Aayu\n* Aayush ji\n\nFeel free to pick the one that suits you!"
+    },
+    {
+        "role": "user",
+        "content": "who built you"
+    },
+    {
+        "role": "assistant",
+        "content": "I was built by Aayush Dhamecha."
+    },
+    {
+        "role": "user",
+        "content": "what are you doing man"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm assisting and chatting with users like you, Aayush. I'm here to provide information, answer questions, and help with tasks. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "tell me the Maggi recipe and provide some video"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's a simple Masala Maggi recipe:\n\n## Ingredients:\n- 1 packet of Maggi\n- 2 cups of water\n- 1 tablespoon of oil\n- 1 small onion, finely chopped\n- 1 small tomato, finely chopped\n- 1 green chili, finely chopped\n- 1 teaspoon of ginger-garlic paste\n- 1 teaspoon of turmeric powder\n- 1 teaspoon of red chili powder\n- Salt, to taste\n- Fresh coriander, for garnish\n\n## Instructions:\n1. Heat oil in a pan, add chopped onion, tomato, and green chili. Saute until soft.\n2. Add ginger-garlic paste, turmeric powder, and red chili powder. Mix well.\n3. Add2 cups of water and bring to a boil.\n4. Add the Maggi and cook according to the packet instructions.\n5. Season with salt to taste.\n6. Garnish with fresh coriander.\n\n## Video:\nYou can find various Maggi recipe videos on YouTube channels like:\n\n* Kanak's Kitchen\n* Kabita's Kitchen\n* Yummy Buttery Garlic Maggi Recipe \n\nPlease note that video links can't be directly provided, but you can search for these channels and recipes on YouTube."
+    },
+    {
+        "role": "user",
+        "content": "Samajik"
+    },
+    {
+        "role": "assistant",
+        "content": "Samajik (\u0938\u093e\u092e\u093e\u091c\u093f\u0915) is a term that refers to social or related to society. It can be associated with:\n\n## Definitions:\n1. **Social** - relating to society or social interactions.\n2. **Community** - related to a group of people living together.\n\n## Examples:\n1. **Samajik Karya** (Social Work) - work done for the betterment of society.\n2. **Samajik Vigyan** (Social Science) - the study of human society.\n\nIf you have a specific context or question related to \"Samajik,\" feel free to ask!"
+    },
+    {
+        "role": "user",
+        "content": "talk with me in English"
+    },
+    {
+        "role": "assistant",
+        "content": "We are already communicating in English. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "talk with me in Hindi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0938\u093e\u0925 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0942\u0901\u0964 \u0915\u0948\u0938\u0947 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0942\u0901?"
+    },
+    {
+        "role": "user",
+        "content": "talk with me in Hindi"
+    },
+    {
+        "role": "assistant",
+        "content": "\u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0938\u093e\u0925 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930 \u0930\u0939\u093e \u0939\u0942\u0901\u0964 \u0915\u0948\u0938\u0947 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0942\u0901?\n\n\u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0941\u091b \u092a\u0942\u091b\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u092f\u093e \u092c\u093e\u0924 \u0915\u0930\u0928\u0940 \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902?"
+    },
+    {
+        "role": "user",
+        "content": "tell me the Bubble sort"
+    },
+    {
+        "role": "assistant",
+        "content": "Bubble sort:\n\n## How Bubble Sort Works:\n\n1. **Start from the beginning**: Begin at the first element of the list.\n2. **Compare adjacent elements**: Compare the current element with the next one.\n3. **Swap if needed**: If the elements are in the wrong order, swap them.\n4. **Repeat**: Continue this process until the end of the list.\n5. **Iterate**: Repeat steps 1-4 until no more swaps are needed.\n\n## Example:\nList: `[5, 2, 8, 3, 1, 6, 4]`\n\n## Step-by-Step Sorting:\n\n1. `[5, 2, 8, 3, 1, 6, 4]`\n2. `[2, 5, 8, 3, 1, 6, 4]`\n3. `[2, 5, 3, 8, 1, 6, 4]`\n4. `[2, 3, 5, 8, 1, 6, 4]`\n5. `[2, 3, 1, 5, 8, 6, 4]`\n6. `[1, 2, 3, 5, 8, 6, 4]`\n\n## Final Sorted List: `[1, 2, 3, 4, 5, 6, 8]`\n\nLet me know if you have any questions or need further clarification!"
+    },
+    {
+        "role": "user",
+        "content": "National Linear search as I am 5 years"
+    },
+    {
+        "role": "assistant",
+        "content": "At5 years old, you're learning about linear search!\n\n## What is Linear Search?\n\nLinear search:\n\n1. **Check each item**: Look at each item in a list one by one.\n2. **Find the match**: Stop when you find what you're looking for.\n\n## Example:\n\nList: `[apple, banana, orange, grapes]`\n\nYou're looking for \"banana\":\n\n1. Check \"apple\" (no match)\n2. Check \"banana\" (match found!)\n\nThat's linear search!"
+    },
+    {
+        "role": "user",
+        "content": "TCS ka stock price kitna hai"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Tata Consultancy Services (TCS) is around \u20b93,504.70."
+    },
+    {
+        "role": "user",
+        "content": "stock price of Apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to current market data, Aayush, the stock price of Apple Inc. (AAPL) is around $200.42."
+    }
+]
